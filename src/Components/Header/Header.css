@@ -1,0 +1,19 @@
+.Header img {
+    height: 30px;
+    margin-left: 30px;
+}
+
+
+nav{
+    margin-top:  20px;
+    line-height: 30px;
+    font-size: 25px;
+    
+}
+.text{
+    margin-right: 20px;
+    padding: 5px;
+    color:black;
+    
+}
+
